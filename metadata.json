@@ -1,0 +1,6 @@
+{
+  "name": "Калькулятор",
+  "description": "Современный и удобный калькулятор с поддержкой пяти основных операций (+, −, ×, ÷, %), деления с защитой от нуля и вычислений с дробными числами Double.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
